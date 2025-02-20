@@ -1,7 +1,7 @@
 # GameAssets
 Game Assets for Unity Game Development
 
-## Check the Other Branches:
+## Check The Branches:
 - [Codes](https://github.com/Boreal104/GameAssets/tree/Codes)
 - [Musics](https://github.com/Boreal104/GameAssets/tree/Musics)
 - [Sprites](https://github.com/Boreal104/GameAssets/tree/Sprites)
@@ -24,7 +24,7 @@ Boreal104 accepts **no responsibility** for projects using these assets that may
 - Damage Boreal104’s reputation
 - Cause harm to others
 
-(Please be **sensible** and **kind** in your usage.)
+###### Please be **sensible** and **kind** in your usage.
 
 ## Commercial & Non-Commercial Use
 - You may use this asset pack **freely** in **non-commercial** games.
