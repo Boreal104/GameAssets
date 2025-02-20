@@ -17,7 +17,6 @@ Please credit **Boreal104** if you use these assets. (I would love to see any pr
 - Do **not** use these assets for any projects that promote hate, including but not limited to:
   - Racism
   - Sexism
-  - Transphobia
 - Do **not** use these assets for illegal products or purposes.
 
 ## Liability
