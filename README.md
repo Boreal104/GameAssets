@@ -9,7 +9,7 @@ Game Assets for Unity Game Development
 # Terms of Use
 
 ## Asset Creator
-These assets were created by **Batuhan Bulancak** ([Boreal104](https://github.com/Boreal104)) and are available for download.
+These assets were created by **[Boreal104](https://github.com/Boreal104)** and are available for download.
 
 Please credit **Boreal104** if you use these assets. (I would love to see any projects you create using them!)
 
