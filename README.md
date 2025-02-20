@@ -33,5 +33,6 @@ Boreal104 accepts **no responsibility** for projects using these assets that may
 ## Contact & Support
 Thank you so much for downloading! Please enjoy the assets.
 
-(Sorry if these terms sound strict—please feel free to message me if you have any questions. I’m happy to help!)
+###### Sorry if these terms sound strict
+###### Please feel free to message me if you have any questions. I’m happy to help!
 
