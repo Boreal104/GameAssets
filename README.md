@@ -37,3 +37,7 @@ Thank you so much for downloading! Please enjoy the assets.
 ###### Sorry if these terms sound strict
 ###### Please feel free to message me if you have any questions. I’m happy to help!
 
+## Other Resources That Might Be Useful:
+- Music Generation:
+-- [**Suno:** *AI Music Gnerator*](https://suno.com)
+
