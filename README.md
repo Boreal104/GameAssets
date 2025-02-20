@@ -39,5 +39,4 @@ Thank you so much for downloading! Please enjoy the assets.
 
 ## Other Resources That Might Be Useful:
 - Musics:
-  - [**Suno:** *AI Music Generator*](https://suno.com)
-
+  - <a href="https://suno.com" target="_blank">**Suno:** *AI Music Generator*</a>
