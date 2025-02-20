@@ -11,7 +11,8 @@ Game Assets for Unity Game Development
 ## Asset Creator
 These assets were created by **[Boreal104](https://github.com/Boreal104)** and are available for download.
 
-Please credit **Boreal104** if you use these assets. (I would love to see any projects you create using them!)
+Please credit **Boreal104** if you use these assets.
+###### I would love to see any projects you create using them!
 
 ## Usage Restrictions
 - Do **not** use these assets for any projects that promote hate, including but not limited to:
