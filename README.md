@@ -1,10 +1,10 @@
 # GameAssets
 Game Assets for Unity Game Development
 
-##Check the Other Branches:
--[Codes](https://github.com/Boreal104/GameAssets/tree/Codes)
--[Musics](https://github.com/Boreal104/GameAssets/tree/Musics)
--[Sprites](https://github.com/Boreal104/GameAssets/tree/Sprites)
+## Check the Other Branches:
+- [Codes](https://github.com/Boreal104/GameAssets/tree/Codes)
+- [Musics](https://github.com/Boreal104/GameAssets/tree/Musics)
+- [Sprites](https://github.com/Boreal104/GameAssets/tree/Sprites)
 
 # Terms of Use
 
