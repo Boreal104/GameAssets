@@ -5,6 +5,7 @@ Game Assets for Unity Game Development
 - [Codes](https://github.com/Boreal104/GameAssets/tree/Codes)
 - [Musics](https://github.com/Boreal104/GameAssets/tree/Musics)
 - [Sprites](https://github.com/Boreal104/GameAssets/tree/Sprites)
+- [Projects](https://github.com/Boreal104/GameAssets/tree/Projects)
 
 # Terms of Use
 
